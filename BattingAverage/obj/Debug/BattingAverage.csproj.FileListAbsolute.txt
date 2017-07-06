@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\bin\Debug\BattingAverage.pdb
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\obj\Debug\BattingAverage.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\obj\Debug\BattingAverage.exe
+C:\Users\slage\Desktop\C# Bootcamp\BattingAverage\BattingAverage\obj\Debug\BattingAverage.pdb
